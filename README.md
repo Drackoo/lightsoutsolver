@@ -23,20 +23,6 @@ Ensure you have Python installed (Python 3.6+ recommended).
 - Tries all possible move combinations.
 - Guarantees finding a solution but is computationally expensive for larger grids.
 
-## Example
-Input (3x3 Grid Example):
-```
-1 0 1
-0 1 0
-1 0 1
-```
-Output (Sequence of Moves):
-```
-Press (0,1)
-Press (1,0)
-Press (1,2)
-Press (2,1)
-```
 
 
 
